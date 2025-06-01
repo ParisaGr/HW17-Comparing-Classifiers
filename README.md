@@ -13,7 +13,7 @@ The dataset comes from the UC Irvine Machine Learning Repository (https://archiv
 
 
 ## Findings
-Below is the finding:
+Below are the findings:
 - Logistic Regression and Linear SVM are the best choices
 - Logistic Regression and Linear SVM have high precision (~0.70), meaning when they predict a client will subscribe, they are often correct.
 - All models have high accuracy (close to 0.90)
