@@ -1,4 +1,4 @@
-#kk
+#Comparing Classifier
 ## Objective:
 The objective of this work is to build a predictive model that helps the bank identify clients who are most likely to subscribe to a term deposit, so that marketing resources can be focused on those clients, improving campaign effectiveness and reducing wasted effort. 
 Predicting whether a bank client will subscribe to a term deposit (i.e., open a long-term deposit account) based on their demographic, financial, and contact information. This is important for the bank because:
@@ -15,9 +15,9 @@ The dataset comes from the UC Irvine Machine Learning Repository (https://archiv
 ## Findings
 Below is the summary table:
 
-                 Model  Train Time  Train Accuracy  Test Accuracy  Precision    Recall      F1-Score
-0  Logistic Regression    0.036833          0.9090          0.900   0.702128    0.277311    0.397590
-1                  KNN    0.002044          0.9222          0.887   0.553571    0.260504    0.354286  
+                 |Model|  |Train Time|  |Train Accuracy|  |Test Accuracy|  |Precision|    |Recall|      |F1-Score|
+|Logistic Regression|    0.036833          0.9090          0.900   0.702128    0.277311    0.397590
+|KNN|    |0.002044 |0.9222|          0.887   0.553571    0.260504    0.354286  
 2        Decision Tree    0.048729          0.9998          0.845   0.347458    0.344538    0.345992 
 3           Linear SVM    0.098799          0.9082          0.900   0.711111    0.268908    0.390244 
 
