@@ -13,14 +13,6 @@ The dataset comes from the UC Irvine Machine Learning Repository (https://archiv
 
 
 ## Findings
-Below is the summary table:
-
-                 |Model|  |Train Time|  |Train Accuracy|  |Test Accuracy|  |Precision|    |Recall|      |F1-Score|
-|Logistic Regression|    0.036833          0.9090          0.900   0.702128    0.277311    0.397590
-|KNN|    |0.002044 |0.9222|          0.887   0.553571    0.260504    0.354286  
-2        Decision Tree    0.048729          0.9998          0.845   0.347458    0.344538    0.345992 
-3           Linear SVM    0.098799          0.9082          0.900   0.711111    0.268908    0.390244 
-
 Below is the finding:
 - Logistic Regression and Linear SVM are the best choices
 - Logistic Regression and Linear SVM have high precision (~0.70), meaning when they predict a client will subscribe, they are often correct.
