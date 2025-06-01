@@ -23,4 +23,4 @@ Below are the findings:
 - Decision Tree has great train accuracy (0.9998) but low test accuracy (0.845), due to overfitting
 
 ## Next steps and recommendations
-Try class balancing techniques (e.g., SMOTE). Synthetic Minority Over-sampling Technique (SMOTE) creates new, synthetic samples by interpolating between existing minority class samples. This can help to reduce overfitting.
+Recommend class balancing techniques such as Synthetic Minority Over-sampling Technique (SMOTE), which creates new, synthetic samples by interpolating between existing minority class sample and help to reduce overfitting.
